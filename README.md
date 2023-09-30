@@ -16,7 +16,7 @@ Workshop Steps:
 Other Command Steps:
 1) Turn the current folder you are working into a repo with git init
 2) Git pull stufff from a changed repo.
-3) Using git pull yyou can pull certain files (index.html) but git fetch just pulls but not creates a new workspace.
+3) Using git pull you can pull certain files (index.html) but git fetch just pulls but not creates a new workspace.
 4) To push the changes you made using git fetch you must use git merge.
 
 
